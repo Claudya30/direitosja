@@ -1,0 +1,26 @@
+{
+  "Direitos":[
+    {
+      "id": 1,
+      "Nome":"Tratamento Fora de Domicilio - TFD",
+      "Tipo: Estadual,
+      "Base legal":"PORTARIA Nº 55",
+      "Beneficios":"Passagensa areas e ajuda de custo para paciente e acompanhante",
+      "Valor":"De acordo com as passagens areas",
+      "Carencia":"A cada 30 dias",
+      "Exigencia":"documentos comprobatorios da consulta "
+    },
+    {
+      "id": 2,
+      "Nome":"Tratamento Fora de Domicilio - TFD",
+      "Tipo: Municipal,
+      "Base legal":"PORTARIA Nº 55",
+      "Beneficios":"Passagens,deslocamento,alimentacao, enxames,remedios (paciente e acompanhante)",
+      "Base legal":"PORTARIA Nº 55",
+      "Valor":"Um salario minimo",
+      "Carencia":"A cada consulta",
+      "Exigencia":"documentos comprobatorios da consulta e devolucao do dinheiro nao usado",
+    }
+  ]
+
+}
